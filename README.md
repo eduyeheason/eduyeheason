@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eduyeheason
+- 👋 Hi, I’m Eason
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning boring git.
 - 💞️ I’m looking to collaborate on umm
